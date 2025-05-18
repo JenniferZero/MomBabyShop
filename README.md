@@ -2,9 +2,6 @@
 
 MomBabyShop là một ứng dụng web React dành cho cửa hàng thương mại điện tử chuyên về các sản phẩm dành cho mẹ và bé. Ứng dụng được xây dựng bằng React, TypeScript, Vite và TailwindCSS.
 
-## Xem trước
-
-![MomBabyShop](https://i.imgur.com/PLACEHOLDER.png)
 
 ## Tính năng
 
@@ -110,13 +107,10 @@ MomBabyShop/
 - Safari (phiên bản mới nhất)
 - Edge (phiên bản mới nhất)
 
-## Giấy phép
-
-MIT
 
 ## Tác giả
 
-Tên của bạn
+Nguyễn Thắng
 
 ---
 
